@@ -1,6 +1,6 @@
-# CPSC-425-ComputerVision
+# ComputerVision
 
-Index:
+### Index:
 
 Assignment 1: Basics of Python
 
